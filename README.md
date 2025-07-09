@@ -14,6 +14,7 @@ Just **fields + a button** → You get a real PDF resume, ready to ship.
 
 [![Watch the video](https://img.youtube.com/vi/y8ravoyPtAA/hqdefault.jpg)](https://youtube.com/shorts/y8ravoyPtAA?feature=share)]
 
+Your_Name_Resume.PDF is the output file from this video
 ---
 
 ## 🧠 Why I Built This

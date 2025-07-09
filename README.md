@@ -12,6 +12,8 @@ A lightweight desktop **Resume Builder** built with Python and Tkinter that gene
 No logins. No subscriptions. No drag-and-drop gimmicks.  
 Just **fields + a button** → You get a real PDF resume, ready to ship.
 
+[![Watch the video](https://img.youtube.com/vi/y8ravoyPtAA/hqdefault.jpg)](https://youtube.com/shorts/y8ravoyPtAA?feature=share)]
+
 ---
 
 ## 🧠 Why I Built This

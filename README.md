@@ -79,3 +79,4 @@ This was one of them.
 
 If it helps you, use it. If you improve it, fork it.
 But above all: Keep building.
+© 2025 Thomas Couch — Grey Knight Software
